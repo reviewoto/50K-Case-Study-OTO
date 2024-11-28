@@ -8,31 +8,31 @@
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto" tabindex="-1"><strong>50K Case Study</strong> <strong>Review- Overview</strong></h2>
 <a id="user-content-50k-case-studyreview--overview" class="anchor" href="https://github.com/InbeeReview/50K-Case-Study-OTO#50k-case-studyreview--overview" aria-label="Permalink: 50K Case Study Review- Overview"></a></div>
-<table>
+<table style="width: 28.3627%; height: 144px;">
 <tbody>
-<tr>
-<td>Creator</td>
-<td><strong><mark>Kevin Fahey</mark></strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Creator</td>
+<td style="height: 24px;"><strong><mark>Kevin Fahey</mark></strong></td>
 </tr>
-<tr>
-<td>Product</td>
-<td><strong><mark>50K Case Study</mark></strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Product</td>
+<td style="height: 24px;"><strong><mark>50K Case Study</mark></strong></td>
 </tr>
-<tr>
-<td>Sales page</td>
-<td>Click here:<a href="https://warriorplus.com/o2/a/yg5q9kh/0" rel="nofollow"> </a><strong><a href="https://warriorplus.com/o2/a/h9hqgnn/0" rel="nofollow"><mark>Visit The Salespage</mark></a></strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Sales page</td>
+<td style="height: 24px;">Click here:<a href="https://warriorplus.com/o2/a/yg5q9kh/0" rel="nofollow"> </a><strong><a href="https://7review-oto.us/50K-Case-Study-Coupon" rel="nofollow"><mark>Visit The Salespage</mark></a></strong></td>
 </tr>
-<tr>
-<td>Front-end price</td>
-<td><strong><mark>$9.95</mark></strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Front-end price</td>
+<td style="height: 24px;"><strong><mark>$9.95</mark></strong></td>
 </tr>
-<tr>
-<td>Bonus</td>
-<td><strong>Yes, Huge Bonus</strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Bonus</td>
+<td style="height: 24px;"><strong>Yes, Huge Bonus</strong></td>
 </tr>
-<tr>
-<td>Guarantee</td>
-<td><strong><mark>30-day money-back guarantee!</mark></strong></td>
+<tr style="height: 24px;">
+<td style="height: 24px;">Guarantee</td>
+<td style="height: 24px;"><strong><mark>30-day money-back guarantee!</mark></strong></td>
 </tr>
 </tbody>
 </table>
